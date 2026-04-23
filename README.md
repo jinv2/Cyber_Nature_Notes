@@ -1,6 +1,6 @@
 # 🌿 赛博自然笔记 (Cyber Nature Notes) - No.29
 
-![Shensist Logo](assets/logo_ts.webp)
+<img src="assets/logo_ts.webp" width="64" height="64" alt="Shensist Logo">
 
 > **跨物种共情对话翻译器 | 官方联动版 V2.5**
 
@@ -26,7 +26,7 @@
 
 ## 📜 许可协议
 
-本项目采用 [MIT License](LICENSE) 协议开源。
+本项目为 **专有软件 (Proprietary)**。保留所有权利。未经授权，禁止任何形式的商业使用、修改或重新分发。
 
 ---
-*Developed by Shensist-Agent Architect | 2026*
+*Developed by Shensist-Agent Architect | 2026 | Proprietary - All Rights Reserved*
